@@ -6,6 +6,7 @@ TO RUN:
 
 
 TODO:
+- add unit tests
 - display data as table
 - display data without brackets
 - validate if expression has proper length
